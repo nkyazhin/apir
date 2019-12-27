@@ -3,7 +3,7 @@ require 'http-cookie'
 require 'rest-client'
 require 'json'
 require 'date'
-
+require 'addressable/uri'
 require 'apir/reporting'
 
 module Apir
